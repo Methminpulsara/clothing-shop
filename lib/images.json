@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "stairwell-duo",
+    "title": "Vinyl Stairwell",
+    "caption": "Layered monochrome tees and trousers",
+    "category": "tops",
+    "width": 1400,
+    "height": 1867,
+    "aspect": 0.7499,
+    "src": "/images/stairwell-duo-md.webp",
+    "srcLarge": "/images/stairwell-duo-hero.webp",
+    "srcSmall": "/images/stairwell-duo-sm.webp"
+  },
+  {
+    "slug": "tees-on-car",
+    "title": "Graphic Tee",
+    "caption": "Oversized white graphic tees",
+    "category": "tops",
+    "width": 1400,
+    "height": 933,
+    "aspect": 1.5005,
+    "src": "/images/tees-on-car-md.webp",
+    "srcLarge": "/images/tees-on-car-hero.webp",
+    "srcSmall": "/images/tees-on-car-sm.webp"
+  },
+  {
+    "slug": "sneakers-red-bag",
+    "title": "Sky Line",
+    "caption": "Tee, sweats and high-top sneakers",
+    "category": "footwear",
+    "width": 1333,
+    "height": 2000,
+    "aspect": 0.6665,
+    "src": "/images/sneakers-red-bag-md.webp",
+    "srcLarge": "/images/sneakers-red-bag-hero.webp",
+    "srcSmall": "/images/sneakers-red-bag-sm.webp"
+  },
+  {
+    "slug": "yellow-puffer",
+    "title": "Signal Puffer",
+    "caption": "Cropped puffer jacket",
+    "category": "outerwear",
+    "width": 1400,
+    "height": 933,
+    "aspect": 1.5005,
+    "src": "/images/yellow-puffer-md.webp",
+    "srcLarge": "/images/yellow-puffer-hero.webp",
+    "srcSmall": "/images/yellow-puffer-sm.webp"
+  },
+  {
+    "slug": "hoodie-louvre",
+    "title": "Louvre Hoodie",
+    "caption": "Heavyweight hooded sweatshirt",
+    "category": "tops",
+    "width": 1387,
+    "height": 2000,
+    "aspect": 0.6935,
+    "src": "/images/hoodie-louvre-md.webp",
+    "srcLarge": "/images/hoodie-louvre-hero.webp",
+    "srcSmall": "/images/hoodie-louvre-sm.webp"
+  },
+  {
+    "slug": "street-track",
+    "title": "Avenue Track",
+    "caption": "Sports top with track trousers",
+    "category": "sets",
+    "width": 1333,
+    "height": 2000,
+    "aspect": 0.6665,
+    "src": "/images/street-track-md.webp",
+    "srcLarge": "/images/street-track-hero.webp",
+    "srcSmall": "/images/street-track-sm.webp"
+  },
+  {
+    "slug": "dress-arched-hall",
+    "title": "Arch Dress",
+    "caption": "Checked day dress with beret",
+    "category": "dresses",
+    "width": 1333,
+    "height": 2000,
+    "aspect": 0.6665,
+    "src": "/images/dress-arched-hall-md.webp",
+    "srcLarge": "/images/dress-arched-hall-hero.webp",
+    "srcSmall": "/images/dress-arched-hall-sm.webp"
+  },
+  {
+    "slug": "varsity-pair",
+    "title": "Varsity Pair",
+    "caption": "Embroidered track jackets",
+    "category": "outerwear",
+    "width": 1333,
+    "height": 2000,
+    "aspect": 0.6665,
+    "src": "/images/varsity-pair-md.webp",
+    "srcLarge": "/images/varsity-pair-hero.webp",
+    "srcSmall": "/images/varsity-pair-sm.webp"
+  }
+]
